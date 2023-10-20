@@ -6,9 +6,9 @@
  * *dest: pointer to destination input.
  * *src: pointer to sourse input.
  *
- * Description-src: its the counter for the src string.
+ * @src: its the counter for the src string.
  *
- * Description-dest: its the counter for the dest string.
+ * @dest: its the counter for the dest string.
  *
  * Return: dest;
 */
