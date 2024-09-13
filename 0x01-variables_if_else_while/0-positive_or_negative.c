@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
-* main - Entry point
+* main - entry point
 *
-* Description: A C program that prints [ositive or negative or zero
+* Description: false or true validation
 *
-* Return : Always 0 ( Success )
+* Return: 0 on success, 1 on error
 */
 int main(void)
 {
